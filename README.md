@@ -34,3 +34,6 @@ This Java version is completely written by me, this is very important, beacuse i
 Really recommend beginner like me to go to Udemy Taming Big Data with Apache Spark and Python, the original python version 
 is taught by this course
 
+Caution:::
+If you are running this on cluster, recommend use "partition" before running it.
+
